@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment
+chatbot/Include/
+chatbot/Lib/
+chatbot/Scripts/
+chatbot/etc/
+chatbot/pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit config (if any)
+.streamlit/
